@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @YilmazYababa
-- 👀 I’m interested in Game Development & Software
-- 💞️ I’m looking to collaborate on 'PALANDOKENLI' & 'Life of a Contractor'
+- 👀 I’m interested in App Development & Dart
+- 🛠️ Currently working on private dev tools & focus-driven apps.
